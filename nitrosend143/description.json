@@ -1,0 +1,40 @@
+{
+  "@context": "https://mailschema.org/contexts/map-0.3.jsonld",
+  "@type": "MailAction",
+  "@id": "urn:uuid:7f1c4a52-9d63-5b0e-8a41-2c6e9d70b318",
+  "profile": "https://mailschema.org/profiles/map/0.3",
+  "type": {
+    "id": "https://mailschema.org/types/email-address-confirmation",
+    "version": "0.1",
+    "contractDigest": "sha-256:fc9d8a4fb3f3065f93bd53d1f9238b13df63186588d3f3f44982d5813412e282"
+  },
+  "issuedAt": "2026-10-20T21:02:11Z",
+  "expiresAt": "2026-10-21T21:02:11Z",
+  "inLanguage": "en",
+  "service": {
+    "id": "https://api.nitrosend.com",
+    "tenant": "urn:nitrosend:brand:13043"
+  },
+  "recipient": "llmrt5b625a@maxxspace.com",
+  "subject": {
+    "id": "https://api.nitrosend.com/v1/my/contacts/4016922",
+    "title": "Confirm hello@llmrtproof.nitrosend.net as a communication address"
+  },
+  "terms": {
+    "id": "https://api.nitrosend.com/v1/my/mail_confirmations/cf-7b91e2",
+    "version": "sha-256:0b1f6d2c4e8a9f3d5b7c1e0a2d4f6b8c0e2a4c6d8f0b1d3e5a7c9b0d2f4e6a8c"
+  },
+  "details": {
+    "mailbox": "llmrt5b625a@maxxspace.com",
+    "requestId": "https://api.nitrosend.com/v1/my/mail_confirmations/cf-7b91e2",
+    "requestedAt": "2026-10-20T21:02:11Z",
+    "purpose": "communication-address",
+    "serviceName": "Nitrosend"
+  },
+  "operations": [
+    { "id": "confirm" }
+  ],
+  "human": {
+    "url": "https://app.nitrosend.com/my/confirmations/cf-7b91e2"
+  }
+}
