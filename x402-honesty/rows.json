@@ -1,0 +1,1802 @@
+[
+ {
+  "url": "https://intel.rallylive.ca/library/audiobooks/christianity-other",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://intel.rallylive.ca/library/audiobooks/children-s-fiction",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://intel.rallylive.ca/library/audiobooks/biography-autobiography",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://email.intel.rallylive.ca/email/spf-authorizes/docusign",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://email.intel.rallylive.ca/email/spf-authorizes/deel",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://email.intel.rallylive.ca/email/spf-authorizes/customerio",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://dns.intel.rallylive.ca/dns/dkim/amazonses",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://sol.blockrun.ai/api/v1/chat/completions",
+  "index": "1000",
+  "code": 402,
+  "real": "1000",
+  "body_bytes": 400,
+  "body": "{\"x402Version\":2,\"resource\":{\"url\":\"https://sol.blockrun.ai/api/v1/chat/completions\",\"description\":\"AI chat completions ",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://dns.intel.rallylive.ca/dns/dkim/activecampaign",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://dns.intel.rallylive.ca/dns/dkim/ac",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://site.intel.rallylive.ca/site/uses/sharethis",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://site.intel.rallylive.ca/site/uses/optinmonster",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://site.intel.rallylive.ca/site/uses/open-graph",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://mpp.hyreagent.fun/trenches/new-tokens",
+  "index": "80000",
+  "code": 402,
+  "real": "80000",
+  "body_bytes": 400,
+  "body": "{\"error\":\"X-PAYMENT header is required\",\"accepts\":[{\"scheme\":\"exact\",\"network\":\"solana\",\"maxAmountRequired\":\"80000\",\"res",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://api.paysponge.com/v0/inboxes/:inbox_id/messages",
+  "index": "0",
+  "code": 404,
+  "real": null,
+  "body_bytes": 29,
+  "body": "{\"error\":\"Service not found\"}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://conclavex402.pythonanywhere.com/v1/x402-integrity",
+  "index": "9000",
+  "code": 402,
+  "real": "9000",
+  "body_bytes": 400,
+  "body": "{\n  \"x402Version\": 2,\n  \"error\": \"PAYMENT-SIGNATURE header is required\",\n  \"resource\": {\n    \"url\": \"https://conclavex40",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://conclavex402.pythonanywhere.com/v1/sec/enforcement",
+  "index": "5000",
+  "code": 400,
+  "real": null,
+  "body_bytes": 30,
+  "body": "{\n  \"error\": \"invalid_query\"\n}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://conclavex402.pythonanywhere.com/v1/solana/snapshot",
+  "index": "20000",
+  "code": 402,
+  "real": "20000",
+  "body_bytes": 400,
+  "body": "{\n  \"x402Version\": 2,\n  \"error\": \"PAYMENT-SIGNATURE header is required\",\n  \"resource\": {\n    \"url\": \"https://conclavex40",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://conclavex402.pythonanywhere.com/v1/pkg",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 400,
+  "body": "{\n  \"x402Version\": 2,\n  \"error\": \"PAYMENT-SIGNATURE header is required\",\n  \"resource\": {\n    \"url\": \"https://conclavex40",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://conclavex402.pythonanywhere.com/v1/price",
+  "index": "5000",
+  "code": 402,
+  "real": "5000",
+  "body_bytes": 400,
+  "body": "{\n  \"x402Version\": 2,\n  \"error\": \"PAYMENT-SIGNATURE header is required\",\n  \"resource\": {\n    \"url\": \"https://conclavex40",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://conclavex402.pythonanywhere.com/v1/token",
+  "index": "20000",
+  "code": 402,
+  "real": "20000",
+  "body_bytes": 400,
+  "body": "{\n  \"x402Version\": 2,\n  \"error\": \"PAYMENT-SIGNATURE header is required\",\n  \"resource\": {\n    \"url\": \"https://conclavex40",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://intel.rallylive.ca/dev/x402-probe",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://intel.rallylive.ca/dev/nodeinfo",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://intel.rallylive.ca/data/holidays/fi",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://dns.intel.rallylive.ca/dns/dkim/20dkim1",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://dns.intel.rallylive.ca/dns/dkim/20161025",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://email.intel.rallylive.ca/email/hosted-by/kolab",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://email.intel.rallylive.ca/email/hosted-by/infomaniak-mail",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://email.intel.rallylive.ca/email/hosted-by/hey",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://dns.intel.rallylive.ca/dns/dkim/google",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://site.intel.rallylive.ca/site/uses/onetrust",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://site.intel.rallylive.ca/site/uses/make",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://site.intel.rallylive.ca/site/uses/magento",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://verify-oracle.run402.com/api/bounties",
+  "index": "0",
+  "code": 402,
+  "real": "2000",
+  "body_bytes": 364,
+  "body": "{\"error\":\"Request failed\",\"message\":\"Request failed\",\"code\":\"PAYMENT_REQUIRED\",\"category\":\"billing\",\"source\":\"gateway\",\"",
+  "ct": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://verify-oracle.run402.com/api/solana-mint-audit",
+  "index": "0",
+  "code": 402,
+  "real": "2000",
+  "body_bytes": 364,
+  "body": "{\"error\":\"Request failed\",\"message\":\"Request failed\",\"code\":\"PAYMENT_REQUIRED\",\"category\":\"billing\",\"source\":\"gateway\",\"",
+  "ct": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://verify-oracle.run402.com/api/erc20-balance",
+  "index": "0",
+  "code": 402,
+  "real": "1000",
+  "body_bytes": 364,
+  "body": "{\"error\":\"Request failed\",\"message\":\"Request failed\",\"code\":\"PAYMENT_REQUIRED\",\"category\":\"billing\",\"source\":\"gateway\",\"",
+  "ct": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://verify-oracle.run402.com/api/block-number",
+  "index": "0",
+  "code": 402,
+  "real": "1000",
+  "body_bytes": 364,
+  "body": "{\"error\":\"Request failed\",\"message\":\"Request failed\",\"code\":\"PAYMENT_REQUIRED\",\"category\":\"billing\",\"source\":\"gateway\",\"",
+  "ct": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://verify-oracle.run402.com/api/base-gas",
+  "index": "0",
+  "code": 402,
+  "real": "1000",
+  "body_bytes": 364,
+  "body": "{\"error\":\"Request failed\",\"message\":\"Request failed\",\"code\":\"PAYMENT_REQUIRED\",\"category\":\"billing\",\"source\":\"gateway\",\"",
+  "ct": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://verify-oracle.run402.com/api/crypto-price",
+  "index": "0",
+  "code": 402,
+  "real": "1000",
+  "body_bytes": 364,
+  "body": "{\"error\":\"Request failed\",\"message\":\"Request failed\",\"code\":\"PAYMENT_REQUIRED\",\"category\":\"billing\",\"source\":\"gateway\",\"",
+  "ct": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://amber-maple-3b054208.tunnl.gg/aegis-schema-audit",
+  "index": "500000",
+  "code": 402,
+  "real": "500000",
+  "body_bytes": 400,
+  "body": "{\"x402Version\":2,\"error\":\"PAYMENT-SIGNATURE header is required\",\"resource\":{\"url\":\"https://amber-maple-3b054208.tunnl.gg",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://amber-maple-3b054208.tunnl.gg/aegis-venue-health-check",
+  "index": "500000",
+  "code": 402,
+  "real": "500000",
+  "body_bytes": 400,
+  "body": "{\"x402Version\":2,\"error\":\"PAYMENT-SIGNATURE header is required\",\"resource\":{\"url\":\"https://amber-maple-3b054208.tunnl.gg",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://lax.kognai.ai/registry/offers",
+  "index": "10000",
+  "code": 404,
+  "real": null,
+  "body_bytes": 21,
+  "body": "{\"error\":\"not found\"}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://dns.intel.rallylive.ca/dns/dkim/github",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://dns.intel.rallylive.ca/dns/dkim/front",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://site.intel.rallylive.ca/site/uses/logrocket",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://site.intel.rallylive.ca/site/uses/lodash",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://site.intel.rallylive.ca/site/uses/litespeed-cache",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://agent402.tools/api/tts-hd",
+  "index": "240000",
+  "code": 402,
+  "real": "240000",
+  "body_bytes": 400,
+  "body": "{\"x402Version\":2,\"error\":\"Payment required\",\"resource\":{\"url\":\"https://agent402.tools/api/tts-hd\",\"description\":\"Convert",
+  "ct": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://sol.blockrun.ai/api/v1/exa/search",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 400,
+  "body": "{\"x402Version\":2,\"accepts\":[{\"scheme\":\"exact\",\"network\":\"solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp\",\"amount\":\"10000\",\"asse",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://api.dev.hypercli.com/agents/x402/solo",
+  "index": "10000",
+  "code": 405,
+  "real": null,
+  "body_bytes": 31,
+  "body": "{\"detail\":\"Method Not Allowed\"}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://x402.ph1976.nl/v1/transform",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 400,
+  "body": "{\"x402Version\":2,\"error\":\"X-PAYMENT header is required\",\"resource\":{\"url\":\"https://x402.ph1976.nl/v1/transform\",\"descrip",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://x402.ph1976.nl/v1/summarize",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 400,
+  "body": "{\"x402Version\":2,\"error\":\"X-PAYMENT header is required\",\"resource\":{\"url\":\"https://x402.ph1976.nl/v1/summarize\",\"descrip",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://penger-oracle.run402.com/api/bounties",
+  "index": "0",
+  "code": 402,
+  "real": "2000",
+  "body_bytes": 364,
+  "body": "{\"error\":\"Request failed\",\"message\":\"Request failed\",\"code\":\"PAYMENT_REQUIRED\",\"category\":\"billing\",\"source\":\"gateway\",\"",
+  "ct": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://penger-oracle.run402.com/api/solana-mint-audit",
+  "index": "0",
+  "code": 402,
+  "real": "2000",
+  "body_bytes": 364,
+  "body": "{\"error\":\"Request failed\",\"message\":\"Request failed\",\"code\":\"PAYMENT_REQUIRED\",\"category\":\"billing\",\"source\":\"gateway\",\"",
+  "ct": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://penger-oracle.run402.com/api/erc20-balance",
+  "index": "0",
+  "code": 402,
+  "real": "1000",
+  "body_bytes": 364,
+  "body": "{\"error\":\"Request failed\",\"message\":\"Request failed\",\"code\":\"PAYMENT_REQUIRED\",\"category\":\"billing\",\"source\":\"gateway\",\"",
+  "ct": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://penger-oracle.run402.com/api/block-number",
+  "index": "0",
+  "code": 402,
+  "real": "1000",
+  "body_bytes": 364,
+  "body": "{\"error\":\"Request failed\",\"message\":\"Request failed\",\"code\":\"PAYMENT_REQUIRED\",\"category\":\"billing\",\"source\":\"gateway\",\"",
+  "ct": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://penger-oracle.run402.com/api/base-gas",
+  "index": "0",
+  "code": 402,
+  "real": "1000",
+  "body_bytes": 364,
+  "body": "{\"error\":\"Request failed\",\"message\":\"Request failed\",\"code\":\"PAYMENT_REQUIRED\",\"category\":\"billing\",\"source\":\"gateway\",\"",
+  "ct": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://penger-oracle.run402.com/api/crypto-price",
+  "index": "0",
+  "code": 402,
+  "real": "1000",
+  "body_bytes": 364,
+  "body": "{\"error\":\"Request failed\",\"message\":\"Request failed\",\"code\":\"PAYMENT_REQUIRED\",\"category\":\"billing\",\"source\":\"gateway\",\"",
+  "ct": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://altspider.ai/api/offerings/c32f5fd3",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 400,
+  "body": "{\"error\": \"PAYMENT-SIGNATURE header is required\", \"accepts\": [{\"scheme\": \"exact\", \"network\": \"eip155:8453\", \"amount\": \"1",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://altspider.ai/api/job",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 400,
+  "body": "{\"error\": \"PAYMENT-SIGNATURE header is required\", \"accepts\": [{\"scheme\": \"exact\", \"network\": \"eip155:8453\", \"amount\": \"1",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://email.intel.rallylive.ca/email/spf-authorizes/constantcontact",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://email.intel.rallylive.ca/email/spf-authorizes/campaign-monitor",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://email.intel.rallylive.ca/email/spf-authorizes/brevo",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://dns.intel.rallylive.ca/dns/verification/wix",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://dns.intel.rallylive.ca/dns/verification/status-page",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://dns.intel.rallylive.ca/dns/verification/miro",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://site.intel.rallylive.ca/site/uses/klarna-osm",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://site.intel.rallylive.ca/site/uses/jetpack",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://site.intel.rallylive.ca/site/header/access-control-allow-credentials",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://dns.intel.rallylive.ca/dns/verification/gitlab",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://dns.intel.rallylive.ca/dns/verification/facebook",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://dns.intel.rallylive.ca/dns/verification/dropbox",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://site.intel.rallylive.ca/site/uses/instagram-embed",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://site.intel.rallylive.ca/site/uses/iis",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://site.intel.rallylive.ca/site/uses/htmx",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://api.tokenizen.nl/api/paid/verify-ownership",
+  "index": "1000",
+  "code": 405,
+  "real": null,
+  "body_bytes": 257,
+  "body": "{\"ok\":false,\"error\":\"method not allowed\",\"detail\":\"This is a paid x402 endpoint and it answers POST. A GET cannot return",
+  "ct": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://email.intel.rallylive.ca/email/spf-authorizes/braze",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://email.intel.rallylive.ca/email/hosted-by/hetzner-mail",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://dns.intel.rallylive.ca/dns/verification/atlassian",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://dns.intel.rallylive.ca/dns/verification/adobe",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://dns.intel.rallylive.ca/dns/tld/world",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://site.intel.rallylive.ca/site/uses/highcharts",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://site.intel.rallylive.ca/site/uses/gutenberg",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://site.intel.rallylive.ca/site/uses/gsap",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://quickbuild.quynguyenbac.workers.dev/api/base/gas",
+  "index": "1000",
+  "code": 402,
+  "real": "1000",
+  "body_bytes": 400,
+  "body": "{\"x402Version\":2,\"error\":\"Payment required\",\"resource\":{\"url\":\"https://quickbuild.quynguyenbac.workers.dev/api/base/gas\"",
+  "ct": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://intel.rallylive.ca/library/subject/siblings",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://intel.rallylive.ca/library/subject/short-stories-french",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://intel.rallylive.ca/library/subject/short-stories-finnish",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://email.intel.rallylive.ca/email/spf-authorizes/barracuda",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://email.intel.rallylive.ca/email/spf-authorizes/amazon-ses",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://email.intel.rallylive.ca/email/hosted-by/zendesk-mail",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://dns.intel.rallylive.ca/dns/tld/vn",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://dns.intel.rallylive.ca/dns/tld/tel",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://dns.intel.rallylive.ca/dns/tld/store",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://site.intel.rallylive.ca/site/uses/elementor",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://site.intel.rallylive.ca/site/uses/codepen",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://site.intel.rallylive.ca/site/uses/axios",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://conclavex402p04.pythonanywhere.com/v1/x402-integrity",
+  "index": "9000",
+  "code": 402,
+  "real": "9000",
+  "body_bytes": 400,
+  "body": "{\n  \"x402Version\": 2,\n  \"error\": \"PAYMENT-SIGNATURE header is required\",\n  \"resource\": {\n    \"url\": \"https://conclavex40",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://agent-social-relay.biv-ai-lab.workers.dev/v1/instagram/reels",
+  "index": "50000",
+  "code": 402,
+  "real": "50000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://agentgate-x402.netlify.app/api/dns",
+  "index": "2000",
+  "code": 402,
+  "real": "2000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://apiv2.laevitas.ch/api/v1/options/:var1",
+  "index": "100000",
+  "code": 404,
+  "real": null,
+  "body_bytes": 83,
+  "body": "{\"message\":\"Cannot GET /api/v1/options/:var1\",\"error\":\"Not Found\",\"statusCode\":404}",
+  "ct": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://intel.rallylive.ca/library/subject/short-stories-english",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://intel.rallylive.ca/library/subject/short-stories-american",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://email.intel.rallylive.ca/email/hosted-by/yahoo-mail",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://email.intel.rallylive.ca/email/hosted-by/web-de",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://email.intel.rallylive.ca/email/hosted-by/godaddy-email",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://site.intel.rallylive.ca/site/uses/mapbox",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://intel.rallylive.ca/library/audiobooks/history",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://dns.intel.rallylive.ca/dns/tld/site",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://dns.intel.rallylive.ca/dns/tld/shop",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://dns.intel.rallylive.ca/dns/tld/ru",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://site.intel.rallylive.ca/site/meta/apple-itunes-app",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://site.intel.rallylive.ca/site/header/x-cache",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://intel.rallylive.ca/data/holidays/ch",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://email.intel.rallylive.ca/email/hosted-by/alibaba-mail",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://dns.intel.rallylive.ca/dns/dkim/ctct2",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://dns.intel.rallylive.ca/dns/dkim/cpanel",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://dns.intel.rallylive.ca/dns/dkim/cc",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://site.intel.rallylive.ca/site/header/expect-ct",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://site.intel.rallylive.ca/site/uses/livewire",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://site.intel.rallylive.ca/site/uses/litespeed",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://api.nansen.ai/api/v1/profiler/address/related-wallets",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 400,
+  "body": "{\"x402Version\":2,\"error\":\"Payment required\",\"resource\":{\"url\":\"https://api.nansen.ai/api/v1/profiler/address/related-wal",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://api.nansen.ai/api/v1/profiler/address/current-balance",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 400,
+  "body": "{\"x402Version\":2,\"error\":\"Payment required\",\"resource\":{\"url\":\"https://api.nansen.ai/api/v1/profiler/address/current-bal",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://api.nansen.ai/api/v1/profiler/address/transactions",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 400,
+  "body": "{\"x402Version\":2,\"error\":\"Payment required\",\"resource\":{\"url\":\"https://api.nansen.ai/api/v1/profiler/address/transaction",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://agent-kiosk.vercel.app/v1/buy-pass",
+  "index": "5000000",
+  "code": 402,
+  "real": "5000000",
+  "body_bytes": 400,
+  "body": "{\n  \"x402Version\": 2,\n  \"error\": \"PAYMENT-SIGNATURE header is required\",\n  \"resource\": {\n    \"url\": \"https://agent-kiosk",
+  "ct": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://agent-kiosk.vercel.app/v1/chat/completions",
+  "index": "2000",
+  "code": 402,
+  "real": "2000",
+  "body_bytes": 400,
+  "body": "{\n  \"x402Version\": 2,\n  \"error\": \"PAYMENT-SIGNATURE header is required\",\n  \"resource\": {\n    \"url\": \"https://agent-kiosk",
+  "ct": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://agent-kiosk.vercel.app/v1/prediction-arb",
+  "index": "15000",
+  "code": 402,
+  "real": "15000",
+  "body_bytes": 400,
+  "body": "{\n  \"x402Version\": 2,\n  \"error\": \"PAYMENT-SIGNATURE header is required\",\n  \"resource\": {\n    \"url\": \"https://agent-kiosk",
+  "ct": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://agent-kiosk.vercel.app/v1/macro-radar",
+  "index": "8000",
+  "code": 402,
+  "real": "8000",
+  "body_bytes": 400,
+  "body": "{\n  \"x402Version\": 2,\n  \"error\": \"PAYMENT-SIGNATURE header is required\",\n  \"resource\": {\n    \"url\": \"https://agent-kiosk",
+  "ct": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://agent-kiosk.vercel.app/v1/funding-rates",
+  "index": "8000",
+  "code": 402,
+  "real": "8000",
+  "body_bytes": 400,
+  "body": "{\n  \"x402Version\": 2,\n  \"error\": \"PAYMENT-SIGNATURE header is required\",\n  \"resource\": {\n    \"url\": \"https://agent-kiosk",
+  "ct": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://agent-kiosk.vercel.app/v1/tx-simulate",
+  "index": "5000",
+  "code": 402,
+  "real": "5000",
+  "body_bytes": 400,
+  "body": "{\n  \"x402Version\": 2,\n  \"error\": \"PAYMENT-SIGNATURE header is required\",\n  \"resource\": {\n    \"url\": \"https://agent-kiosk",
+  "ct": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://agent-kiosk.vercel.app/v1/defi-swap-quote",
+  "index": "50000",
+  "code": 402,
+  "real": "50000",
+  "body_bytes": 400,
+  "body": "{\n  \"x402Version\": 2,\n  \"error\": \"PAYMENT-SIGNATURE header is required\",\n  \"resource\": {\n    \"url\": \"https://agent-kiosk",
+  "ct": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://agent-kiosk.vercel.app/v1/compliance-check",
+  "index": "50000",
+  "code": 402,
+  "real": "50000",
+  "body_bytes": 400,
+  "body": "{\n  \"x402Version\": 2,\n  \"error\": \"PAYMENT-SIGNATURE header is required\",\n  \"resource\": {\n    \"url\": \"https://agent-kiosk",
+  "ct": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://agent-kiosk.vercel.app/v1/whale-alpha-radar",
+  "index": "100000",
+  "code": 402,
+  "real": "100000",
+  "body_bytes": 400,
+  "body": "{\n  \"x402Version\": 2,\n  \"error\": \"PAYMENT-SIGNATURE header is required\",\n  \"resource\": {\n    \"url\": \"https://agent-kiosk",
+  "ct": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://agent-kiosk.vercel.app/v1/b2b-company-dossier",
+  "index": "100000",
+  "code": 402,
+  "real": "100000",
+  "body_bytes": 400,
+  "body": "{\n  \"x402Version\": 2,\n  \"error\": \"PAYMENT-SIGNATURE header is required\",\n  \"resource\": {\n    \"url\": \"https://agent-kiosk",
+  "ct": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://agent-kiosk.vercel.app/v1/token-due-diligence",
+  "index": "100000",
+  "code": 402,
+  "real": "100000",
+  "body_bytes": 400,
+  "body": "{\n  \"x402Version\": 2,\n  \"error\": \"PAYMENT-SIGNATURE header is required\",\n  \"resource\": {\n    \"url\": \"https://agent-kiosk",
+  "ct": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://agent-kiosk.vercel.app/v1/github-intel",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 400,
+  "body": "{\n  \"x402Version\": 2,\n  \"error\": \"PAYMENT-SIGNATURE header is required\",\n  \"resource\": {\n    \"url\": \"https://agent-kiosk",
+  "ct": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://agent-kiosk.vercel.app/v1/defi-yields",
+  "index": "20000",
+  "code": 402,
+  "real": "20000",
+  "body_bytes": 400,
+  "body": "{\n  \"x402Version\": 2,\n  \"error\": \"PAYMENT-SIGNATURE header is required\",\n  \"resource\": {\n    \"url\": \"https://agent-kiosk",
+  "ct": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://agent-kiosk.vercel.app/v1/prediction-markets",
+  "index": "20000",
+  "code": 402,
+  "real": "20000",
+  "body_bytes": 400,
+  "body": "{\n  \"x402Version\": 2,\n  \"error\": \"PAYMENT-SIGNATURE header is required\",\n  \"resource\": {\n    \"url\": \"https://agent-kiosk",
+  "ct": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://agent-kiosk.vercel.app/v1/wallet-profiler",
+  "index": "30000",
+  "code": 402,
+  "real": "30000",
+  "body_bytes": 400,
+  "body": "{\n  \"x402Version\": 2,\n  \"error\": \"PAYMENT-SIGNATURE header is required\",\n  \"resource\": {\n    \"url\": \"https://agent-kiosk",
+  "ct": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://agent-kiosk.vercel.app/v1/academic-search",
+  "index": "20000",
+  "code": 402,
+  "real": "20000",
+  "body_bytes": 400,
+  "body": "{\n  \"x402Version\": 2,\n  \"error\": \"PAYMENT-SIGNATURE header is required\",\n  \"resource\": {\n    \"url\": \"https://agent-kiosk",
+  "ct": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://agent-kiosk.vercel.app/v1/package-audit",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 400,
+  "body": "{\n  \"x402Version\": 2,\n  \"error\": \"PAYMENT-SIGNATURE header is required\",\n  \"resource\": {\n    \"url\": \"https://agent-kiosk",
+  "ct": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://agent-kiosk.vercel.app/v1/domain-intel",
+  "index": "20000",
+  "code": 402,
+  "real": "20000",
+  "body_bytes": 400,
+  "body": "{\n  \"x402Version\": 2,\n  \"error\": \"PAYMENT-SIGNATURE header is required\",\n  \"resource\": {\n    \"url\": \"https://agent-kiosk",
+  "ct": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://agent-kiosk.vercel.app/v1/token-alpha",
+  "index": "20000",
+  "code": 402,
+  "real": "20000",
+  "body_bytes": 400,
+  "body": "{\n  \"x402Version\": 2,\n  \"error\": \"PAYMENT-SIGNATURE header is required\",\n  \"resource\": {\n    \"url\": \"https://agent-kiosk",
+  "ct": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://agent-kiosk.vercel.app/v1/security-audit",
+  "index": "20000",
+  "code": 402,
+  "real": "20000",
+  "body_bytes": 400,
+  "body": "{\n  \"x402Version\": 2,\n  \"error\": \"PAYMENT-SIGNATURE header is required\",\n  \"resource\": {\n    \"url\": \"https://agent-kiosk",
+  "ct": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://agent-kiosk.vercel.app/v1/web-extract",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 400,
+  "body": "{\n  \"x402Version\": 2,\n  \"error\": \"PAYMENT-SIGNATURE header is required\",\n  \"resource\": {\n    \"url\": \"https://agent-kiosk",
+  "ct": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://agent-kiosk.vercel.app/v1/maps-leads",
+  "index": "30000",
+  "code": 402,
+  "real": "30000",
+  "body_bytes": 400,
+  "body": "{\n  \"x402Version\": 2,\n  \"error\": \"PAYMENT-SIGNATURE header is required\",\n  \"resource\": {\n    \"url\": \"https://agent-kiosk",
+  "ct": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://agent-kiosk.vercel.app/v1/social-search",
+  "index": "20000",
+  "code": 402,
+  "real": "20000",
+  "body_bytes": 400,
+  "body": "{\n  \"x402Version\": 2,\n  \"error\": \"PAYMENT-SIGNATURE header is required\",\n  \"resource\": {\n    \"url\": \"https://agent-kiosk",
+  "ct": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://agent-kiosk.vercel.app/v1/ping",
+  "index": "1000",
+  "code": 402,
+  "real": "1000",
+  "body_bytes": 400,
+  "body": "{\n  \"x402Version\": 2,\n  \"error\": \"PAYMENT-SIGNATURE header is required\",\n  \"resource\": {\n    \"url\": \"https://agent-kiosk",
+  "ct": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://monitor.intel.rallylive.ca/monitor/is-down/rumble-com",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://monitor.intel.rallylive.ca/monitor/is-down/fandom-com",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://monitor.intel.rallylive.ca/monitor/cert/pypi-org",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://library.intel.rallylive.ca/library/author/ruben-dario",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://dns.intel.rallylive.ca/dns/tld/pl",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://dns.intel.rallylive.ca/dns/host/voip/aaaa",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://dns.intel.rallylive.ca/dns/host/video/aaaa",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://site.intel.rallylive.ca/site/link-rel/pingback",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://sol.blockrun.ai/api/v1/exa/answer",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 400,
+  "body": "{\"x402Version\":2,\"accepts\":[{\"scheme\":\"exact\",\"network\":\"solana:5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp\",\"amount\":\"10000\",\"asse",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://s2h6qt73jtzlgbgnnfacln2poq.srv.us/v1/access-check",
+  "index": "2000",
+  "code": 405,
+  "real": null,
+  "body_bytes": 400,
+  "body": "{\"error\":{\"code\":\"method_not_allowed\",\"message\":\"This route takes POST only (US$0.002 a call). Its request body and resp",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://s2h6qt73jtzlgbgnnfacln2poq.srv.us/v1/check/packages",
+  "index": "5000",
+  "code": 405,
+  "real": null,
+  "body_bytes": 400,
+  "body": "{\"error\":{\"code\":\"method_not_allowed\",\"message\":\"This route takes POST only (US$0.005 a call). Its request body and resp",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://s2h6qt73jtzlgbgnnfacln2poq.srv.us/v1/check/links",
+  "index": "5000",
+  "code": 405,
+  "real": null,
+  "body_bytes": 400,
+  "body": "{\"error\":{\"code\":\"method_not_allowed\",\"message\":\"This route takes POST only (US$0.005 a call). Its request body and resp",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://s2h6qt73jtzlgbgnnfacln2poq.srv.us/v1/recheck",
+  "index": "3000",
+  "code": 405,
+  "real": null,
+  "body_bytes": 400,
+  "body": "{\"error\":{\"code\":\"method_not_allowed\",\"message\":\"This route takes POST only (US$0.003 a call). Its request body and resp",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://s2h6qt73jtzlgbgnnfacln2poq.srv.us/v1/fetch",
+  "index": "2000",
+  "code": 405,
+  "real": null,
+  "body_bytes": 400,
+  "body": "{\"error\":{\"code\":\"method_not_allowed\",\"message\":\"This route takes POST only (US$0.002 per URL). Its request body and res",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://s2h6qt73jtzlgbgnnfacln2poq.srv.us/v1/verify/text-quote",
+  "index": "5000",
+  "code": 405,
+  "real": null,
+  "body_bytes": 400,
+  "body": "{\"error\":{\"code\":\"method_not_allowed\",\"message\":\"This route takes POST only (US$0.005 a call). Its request body and resp",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://s2h6qt73jtzlgbgnnfacln2poq.srv.us/v1/verify/document",
+  "index": "100000",
+  "code": 405,
+  "real": null,
+  "body_bytes": 400,
+  "body": "{\"error\":{\"code\":\"method_not_allowed\",\"message\":\"This route takes POST only (US$0.10 a call). Its request body and respo",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://s2h6qt73jtzlgbgnnfacln2poq.srv.us/v1/verify/citations",
+  "index": "100000",
+  "code": 405,
+  "real": null,
+  "body_bytes": 400,
+  "body": "{\"error\":{\"code\":\"method_not_allowed\",\"message\":\"This route takes POST only (US$0.10 a call). Its request body and respo",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://s2h6qt73jtzlgbgnnfacln2poq.srv.us/v1/verify/quotes",
+  "index": "20000",
+  "code": 405,
+  "real": null,
+  "body_bytes": 400,
+  "body": "{\"error\":{\"code\":\"method_not_allowed\",\"message\":\"This route takes POST only (US$0.02 a call). Its request body and respo",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://s2h6qt73jtzlgbgnnfacln2poq.srv.us/v1/verify/quote",
+  "index": "10000",
+  "code": 405,
+  "real": null,
+  "body_bytes": 400,
+  "body": "{\"error\":{\"code\":\"method_not_allowed\",\"message\":\"This route takes POST only (US$0.01 a call). Its request body and respo",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://s2h6qt73jtzlgbgnnfacln2poq.srv.us/v1/attest",
+  "index": "2000",
+  "code": 405,
+  "real": null,
+  "body_bytes": 400,
+  "body": "{\"error\":{\"code\":\"method_not_allowed\",\"message\":\"This route takes POST only (US$0.002 a call). Its request body and resp",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://monitor.intel.rallylive.ca/monitor/cert/bbc-com",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://library.intel.rallylive.ca/library/audiobooks/subject/india",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://library.intel.rallylive.ca/library/audiobooks/subject/americans",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://email.intel.rallylive.ca/email/spf-authorizes/zapier",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://email.intel.rallylive.ca/email/spf-authorizes/atlassian",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://dns.intel.rallylive.ca/dns/host/status/txt",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://dns.intel.rallylive.ca/dns/host/status/a",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://dns.intel.rallylive.ca/dns/host/sip/aaaa",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://chain.intel.rallylive.ca/chain/nonce",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://intel.rallylive.ca/library/subject/short-stories",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://intel.rallylive.ca/library/subject/shipwrecks",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://intel.rallylive.ca/dev/did-web",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://email.intel.rallylive.ca/email/hosted-by/tutanota",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://email.intel.rallylive.ca/email/hosted-by/trend-micro",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://email.intel.rallylive.ca/email/hosted-by/symantec-messagelabs",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://ip.intel.rallylive.ca/ip/v6/prefix-64",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://dns.intel.rallylive.ca/dns/tld/ng",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://dns.intel.rallylive.ca/dns/tld/ly",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://dns.intel.rallylive.ca/dns/tld/kr",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://rentcast.x402.paysponge.com/properties",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 400,
+  "body": "{\"x402Version\":2,\"error\":\"Payment required\",\"resource\":{\"url\":\"https://rentcast.x402.paysponge.com/properties\",\"descript",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://email.intel.rallylive.ca/email/spf-authorizes/wix",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://email.intel.rallylive.ca/email/spf-authorizes/rippling",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://dns.intel.rallylive.ca/dns/tld/jp",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://dns.intel.rallylive.ca/dns/tld/info",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://dns.intel.rallylive.ca/dns/tld/il",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://x402-bazaar-rank.x402-bazaar-rank-worker.workers.dev/in-bulk",
+  "index": "8000",
+  "code": 402,
+  "real": "8000",
+  "body_bytes": 400,
+  "body": "{\"x402Version\":1,\"resource\":{\"url\":\"https://x402-bazaar-rank.x402-bazaar-rank-worker.workers.dev/in-bulk\",\"type\":\"http\",",
+  "ct": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://x402-bazaar-rank.x402-bazaar-rank-worker.workers.dev/in-country",
+  "index": "8000",
+  "code": 402,
+  "real": "8000",
+  "body_bytes": 400,
+  "body": "{\"x402Version\":1,\"resource\":{\"url\":\"https://x402-bazaar-rank.x402-bazaar-rank-worker.workers.dev/in-country\",\"type\":\"htt",
+  "ct": "application/json; charset=utf-8"
+ },
+ {
+  "url": "https://api.nansen.ai/api/v1/profiler/address/pnl-summary",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 400,
+  "body": "{\"x402Version\":2,\"error\":\"Payment required\",\"resource\":{\"url\":\"https://api.nansen.ai/api/v1/profiler/address/pnl-summary",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://intel.rallylive.ca/library/subject/shakespeare-william-1564-1616",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://intel.rallylive.ca/library/subject/seafaring-life",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://intel.rallylive.ca/library/subject/sea-stories",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ },
+ {
+  "url": "https://email.intel.rallylive.ca/email/spf-authorizes/quickbooks",
+  "index": "10000",
+  "code": 402,
+  "real": "10000",
+  "body_bytes": 2,
+  "body": "{}",
+  "ct": "application/json"
+ }
+]
