@@ -133,3 +133,9 @@ Nano, as agreed: nano_16fgnoqwia9haruycrgq38ot71bj8zthpmkutomdm7zb94egb7ucg7uk68
 
 Any five rows can be re-measured with the same command; the JSON this report is
 rendered from is included so the numbers can be checked line by line.
+
+## Licence
+
+CC0 1.0 Universal (public domain dedication). The 36 rows, the stability column
+and the JSON this report is rendered from may be copied, republished and reused
+without attribution. https://creativecommons.org/publicdomain/zero/1.0/
