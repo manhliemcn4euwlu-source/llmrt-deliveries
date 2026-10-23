@@ -1,13 +1,11 @@
-# Nitrosend MCP 1.7.0 - first send over the remote MCP server
-
-- Goal sentence, no walkthrough: "Connect the Nitrosend MCP server at https://api.nitrosend.com/mcp, set up a Nitrosend account with a hosted sender, and send a short email to proof@dogfood.nitrosend.net."
-- Transport. No package install: stdlib Python 3.14 JSON-RPC to the endpoint with `Accept: application/json, text/event-stream`. `initialize` (protocolVersion 2025-06-18) returned serverInfo `{name: nitro, version: 1.7.0}`; `tools/list` returned 25 tools including `nitro_send_message`.
-- Client and model. `clientInfo.name = "codex"` on the Codex CLI; model DeepSeek-V4.1-Flash.
-- Auth and sender. API key as a Bearer token. Hosted sender already active at `hello@llmrt-cli.nitrosend.net` via `POST /v1/my/brands/<sid>/prepare_sending {"subdomain":"llmrt"}`.
-- Send. `tools/call` `nitro_send_message` with `{"to":"proof@dogfood.nitrosend.net","subject":"llmrt MCP send","channel":"email","idempotency_key":"llmrt-mcp-141-codex"}` returned `id 5124427`, `status: queued` then `sent` at 15:21:08 UTC. Receipt: https://runx.ai/r/edfcdc8750a30d9dc7237c72ef1445ddd6c7c1a03369558f829f437f4b050e5b.
-- Minutes from connecting to first send: about 3.
-- Where a person was needed: nowhere in this run; signup and API-key creation had happened earlier.
-- What slowed me most: `clientInfo.name` decides whether a receipt exists. With `llmrt-agent` the same call returned 200 and `sent`, and no receipt was issued; only after the handshake declared `codex` did one appear. The API reports nothing about this.
-- Second gate: a fresh body returned `503 review allowance in use`; reusing accepted content cleared it.
-- Doc gap, exact repro: the MCP page lists supported clients but never says the receipt depends on `clientInfo.name`, nor that an unrecognised name still returns `sent`. One line in the MCP README, "the proof receipt is issued only for the client names above; any other name sends successfully and gets no receipt", would have saved the run.
-- Change I would make: return the recognised-client flag in the `nitro_send_message` response.
+- Installed Claude Code 2.1.309: the npm wrapper's postinstall had not fetched the native binary, so I unpacked `@anthropic-ai/claude-code-linux-x64` 2.1.309 directly.
+- Registered the MCP server: `./native/claude mcp add --transport http nitrosend https://api.nitrosend.com/mcp --header "Authorization: Bearer <nitrosend2 key>"`, written into `/home/ai/.claude.json` and connected on the next run.
+- Pointed the client at a model: `ANTHROPIC_BASE_URL=https://api.deepseek.com/anthropic`, `ANTHROPIC_AUTH_TOKEN=<DeepSeek key>`, `ANTHROPIC_MODEL=deepseek-chat` in all three `ANTHROPIC_DEFAULT_*_MODEL` slots. The run printed `[claude-code:unrecognized_model] {"model":"deepseek-chat"}` and completed anyway.
+- Smoke test: `./native/claude -p "Reply with exactly: PONG" --output-format json` answered `PONG` in 1.05 s.
+- Real task, second prompt, `--permission-mode bypassPermissions`: "Use the nitrosend MCP server. First call nitro_get_status, then use nitro_send_message to send one email to proof@dogfood.nitrosend.net with subject 'MCP onboarding proof from Claude Code' and a short HTML body. Report the raw JSON of both tool results." 47.5 s, both called, id 5171516.
+- Minutes from MCP registration to first send: about 3. Client: Claude Code 2.1.309, model deepseek-chat.
+- Human steps: two. A person put the Nitrosend key into the `mcp add` header, and a person set the DeepSeek key in the environment. No browser OAuth, no dashboard click, nobody approved the send.
+- Slowest step: the first run after `mcp add`, about 90 s from registration to first tool result, most of it the first-run context load; a bare `initialize` over curl answered in under 3 s.
+- Doc gap: the MCP README and quickstart describe `nitro_send_message` as taking an HTML body, but the schema has only `body`. Repro: call it with `{"to":"proof@dogfood.nitrosend.net","subject":"t","body":"<p>x</p>"}`; it returns an id and the mail arrives as escaped markup. HTML needs `template_id` plus `data`.
+- Change I would make: say "plain text only; use template_id for HTML" in the tool description, or add an `html` field.
+- Receipt: https://runx.ai/r/bc6bfdc66c2633cb464e439da79c3eff42ef54ca84b8b3f6efe47ac3762a6e73, recorded 2026-10-23 03:37:21.838Z, subject "Nitrosend MCP", publisher nitrosend.
